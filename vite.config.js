@@ -5,5 +5,5 @@ export default defineConfig({
     host: true,
     port: 9203
   },
-  base: './'
+  base: 'balancegame/FruitCuttingMasterTestBuild/'
 })
